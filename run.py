@@ -1,6 +1,6 @@
+from threading import Thread
 from app import app
 from app.bot import run_bot
-from threading import Thread
 
 if __name__ == "__main__":
     # Start the Telegram bot in a separate thread
