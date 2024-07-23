@@ -19,6 +19,7 @@ A Telegram mini app built with React and Express. The app features a direct app 
 - npm
 - Telegram bot token
 - Updated Telegram application
+- Mini web application
   
 
 
